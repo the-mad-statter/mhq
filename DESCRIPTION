@@ -1,0 +1,16 @@
+Package: mhq
+Type: Package
+Title: R Package to Score the Michigan Hand Outcomes Questionnaire
+Version: 0.1.0
+Authors@R: 
+    person(given = "Matthew",
+           family = "Schuelke",
+           role = c("aut", "cre"),
+           email = "schuelke@wustl.edu",
+           comment = c(ORCID = "0000-0001-5755-1725"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
