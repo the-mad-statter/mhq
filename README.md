@@ -4,6 +4,24 @@
 # mhq <img src="img/mhq_hex.png" align="right" width="125px" />
 
 <!-- badges: start -->
+
+[![Project Status: WIP - Initial development is in progress, but there
+has not yet been a stable, usable release suitable for the
+public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![](https://img.shields.io/badge/devel%20version-0.1.0-yellow.svg)](https://github.com/the-mad-statter/mhq)
+[![](https://img.shields.io/github/last-commit/the-mad-statter/mhq.svg)](https://github.com/the-mad-statter/mhq/commits/main)
+[![License: GPL (\>=
+3)](https://img.shields.io/badge/license-GPL%20(%3E=%203)-blue.svg)](https://cran.r-project.org/web/licenses/GPL%20(%3E=%203))
+<br /> [![R build
+status](https://github.com/the-mad-statter/mhq/workflows/Style/badge.svg)](https://github.com/the-mad-statter/mhq/actions)
+[![R build
+status](https://github.com/the-mad-statter/mhq/workflows/lint/badge.svg)](https://github.com/the-mad-statter/mhq/actions)
+[![R build
+status](https://github.com/the-mad-statter/mhq/workflows/test-coverage/badge.svg)](https://github.com/the-mad-statter/mhq/actions)
+[![](https://codecov.io/gh/the-mad-statter/mhq/branch/main/graph/badge.svg)](https://codecov.io/gh/the-mad-statter/mhq)
+[![R build
+status](https://github.com/the-mad-statter/mhq/workflows/R-CMD-check/badge.svg)](https://github.com/the-mad-statter/mhq/actions)
 <!-- badges: end -->
 
 ## Overview

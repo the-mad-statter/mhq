@@ -64,7 +64,17 @@ sticker(
 # `r params$package` <img src="img/`r params$package`_hex.png" align="right" width="125px" />
 
 <!-- badges: start -->
-
+`r badger::badge_repostatus("WIP")`
+`r badger::badge_lifecycle("experimental")`
+`r badger::badge_github_version(color = "yellow")`
+`r badger::badge_last_commit(branch = "main")`
+`r badger::badge_license()`
+<br />
+`r badger::badge_github_actions(action = "Style")`
+`r badger::badge_github_actions(action = "lint")`
+`r badger::badge_github_actions(action = "test-coverage")`
+`r badger::badge_codecov()`
+`r badger::badge_github_actions(action = "R-CMD-check")`
 <!-- badges: end -->
 
 ## Overview
