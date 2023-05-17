@@ -28,4 +28,11 @@ MHQ Normative Values
 }
 \examples{
 mhq_norms("healthy", "hand", "stnd", "m")
+
+}
+\references{
+Nolte, M. T., Shauver, M. J., & Chung, K. C. (2017). Normative values of the
+Michigan Hand Outcomes Questionnaire for patients with and without hand
+conditions. Plastic and reconstructive surgery, 140(3), 425e-433e, DOI:
+10.1097/PRS.0000000000003581
 }

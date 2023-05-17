@@ -22,12 +22,6 @@
 #'   mhq_asth(va1:vb4, handinj = handinj, score = "stnd") %>%
 #'   mhq_sfac(via1:vib6, handinj = handinj, score = "stnd") %>%
 #'   mhq_over(handinj = handinj, score = "stnd")
-#'
-#' @references
-#' Nolte, M. T., Shauver, M. J., & Chung, K. C. (2017). Normative values of the
-#' Michigan Hand Outcomes Questionnaire for patients with and without hand
-#' conditions. Plastic and reconstructive surgery, 140(3), 425e-433e, DOI:
-#' 10.1097/PRS.0000000000003581
 mhq_over <- function(
     data,
     handinj,
