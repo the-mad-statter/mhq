@@ -1,6 +1,6 @@
 Package: mhq
 Type: Package
-Title: R Package to Score the Michigan Hand Outcomes Questionnaire
+Title: R Package to Score the Michigan Hand Outcomes Questionnaire (MHQ)
 Version: 0.1.0
 Authors@R: 
     person(given = "Matthew",
@@ -8,9 +8,25 @@ Authors@R:
            role = c("aut", "cre"),
            email = "schuelke@wustl.edu",
            comment = c(ORCID = "0000-0001-5755-1725"))
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: The Michigan Hand Outcomes Questionnaire (MHQ) is a hand-specific 
+    outcomes instrument which measures the health outcomes of patients with 
+    chronic hand conditions. The MHQ contains six distinct scales (1) overall 
+    hand function, (2) activities of daily living (ADLs), (3) pain, (4) work 
+    performance, (5) aesthetics, and (6) patient satisfaction with hand 
+    function. There is also a demographic section asking questions about 
+    patients’ gender, ethnic background, etc.
+License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/the-mad-statter/mhq
+BugReports: https://github.com/the-mad-statter/mhq/issues
+Roxygen: list(markdown = TRUE)
+Imports: 
+    dplyr,
+    rlang
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
